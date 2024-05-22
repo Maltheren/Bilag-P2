@@ -1,5 +1,5 @@
 # Bilag til P2 projektet ESD210
-Der forefindes følgende kategorier
+Alle eksterne bilag til P2 projektet for ESD210 hvor der kan findes følgende mapper:
 
 
 ### Kicad filer
