@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "XCR_breakout")(type "KiCad")(uri "${KIPRJMOD}/XCR_breakout.kicad_sym")(options "")(descr ""))
+)

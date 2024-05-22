@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MAX743EWE")(type "KiCad")(uri "${KIPRJMOD}/MAX743EWE")(options "")(descr "")(disabled))
+  (lib (name "MAX743CPE")(type "KiCad")(uri "${KIPRJMOD}/MAX743CPE")(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "DG445CJ")(type "KiCad")(uri "${KIPRJMOD}/DG445CJ")(options "")(descr ""))
+)

@@ -1,0 +1,56 @@
+Date : 2024-04-27 13:53:38
+Directory : c:\Users\Malthe Sennels\Documents\ESD210\Kode_Produkt\Klokkemodul_DEV1
+Total : 17 files,  393 codes, 148 comments, 179 blanks, all 720 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| C++      |         15 |        377 |        137 |        173 |        687 |
+| Ini      |          1 |         14 |         11 |          5 |         30 |
+| Markdown |          1 |          2 |          0 |          1 |          3 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                         | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                            |         17 |        393 |        148 |        179 |        720 |
+| . (Files)                                                                                                    |          1 |         14 |         11 |          5 |         30 |
+| lib                                                                                                          |         15 |        328 |        107 |        136 |        571 |
+| lib\DAC                                                                                                      |          2 |         46 |          0 |         15 |         61 |
+| lib\GainController                                                                                           |          2 |         44 |          5 |         18 |         67 |
+| lib\HAL                                                                                                      |          2 |         38 |         24 |         34 |         96 |
+| lib\JobQuerer                                                                                                |          2 |         63 |         39 |         24 |        126 |
+| lib\JobQuerer\src                                                                                            |          2 |         63 |         39 |         24 |        126 |
+| lib\Ringbuffer                                                                                               |          2 |         33 |         11 |          7 |         51 |
+| lib\TurboAnalogRead                                                                                          |          3 |         43 |         26 |         22 |         91 |
+| lib\TurboAnalogRead (Files)                                                                                  |          1 |          2 |          0 |          1 |          3 |
+| lib\TurboAnalogRead\src                                                                                      |          2 |         41 |         26 |         21 |         88 |
+| lib\X9C104                                                                                                   |          2 |         61 |          2 |         16 |         79 |
+| src                                                                                                          |          1 |         51 |         30 |         38 |        119 |
++--------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                                     | language | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\Malthe Sennels\Documents\ESD210\Kode_Produkt\Klokkemodul_DEV1\lib\DAC\DAC.cpp                       | C++      |         39 |          0 |         15 |         54 |
+| c:\Users\Malthe Sennels\Documents\ESD210\Kode_Produkt\Klokkemodul_DEV1\lib\DAC\DAC.h                         | C++      |          7 |          0 |          0 |          7 |
+| c:\Users\Malthe Sennels\Documents\ESD210\Kode_Produkt\Klokkemodul_DEV1\lib\GainController\GainController.cpp | C++      |         27 |          1 |          9 |         37 |
+| c:\Users\Malthe Sennels\Documents\ESD210\Kode_Produkt\Klokkemodul_DEV1\lib\GainController\GainController.h   | C++      |         17 |          4 |          9 |         30 |
+| c:\Users\Malthe Sennels\Documents\ESD210\Kode_Produkt\Klokkemodul_DEV1\lib\HAL\HAL.cpp                       | C++      |         13 |          0 |          6 |         19 |
+| c:\Users\Malthe Sennels\Documents\ESD210\Kode_Produkt\Klokkemodul_DEV1\lib\HAL\HAL.h                         | C++      |         25 |         24 |         28 |         77 |
+| c:\Users\Malthe Sennels\Documents\ESD210\Kode_Produkt\Klokkemodul_DEV1\lib\JobQuerer\src\JobQueuer.cpp       | C++      |         46 |         22 |         12 |         80 |
+| c:\Users\Malthe Sennels\Documents\ESD210\Kode_Produkt\Klokkemodul_DEV1\lib\JobQuerer\src\JobQueuer.h         | C++      |         17 |         17 |         12 |         46 |
+| c:\Users\Malthe Sennels\Documents\ESD210\Kode_Produkt\Klokkemodul_DEV1\lib\Ringbuffer\Ringbuffer.cpp         | C++      |         21 |         11 |          4 |         36 |
+| c:\Users\Malthe Sennels\Documents\ESD210\Kode_Produkt\Klokkemodul_DEV1\lib\Ringbuffer\Ringbuffer.h           | C++      |         12 |          0 |          3 |         15 |
+| c:\Users\Malthe Sennels\Documents\ESD210\Kode_Produkt\Klokkemodul_DEV1\lib\TurboAnalogRead\README.md         | Markdown |          2 |          0 |          1 |          3 |
+| c:\Users\Malthe Sennels\Documents\ESD210\Kode_Produkt\Klokkemodul_DEV1\lib\TurboAnalogRead\src\TurboAnal.cpp | C++      |         32 |          9 |         16 |         57 |
+| c:\Users\Malthe Sennels\Documents\ESD210\Kode_Produkt\Klokkemodul_DEV1\lib\TurboAnalogRead\src\TurboAnal.h   | C++      |          9 |         17 |          5 |         31 |
+| c:\Users\Malthe Sennels\Documents\ESD210\Kode_Produkt\Klokkemodul_DEV1\lib\X9C104\X9C104.cpp                 | C++      |         49 |          0 |         14 |         63 |
+| c:\Users\Malthe Sennels\Documents\ESD210\Kode_Produkt\Klokkemodul_DEV1\lib\X9C104\X9C104.h                   | C++      |         12 |          2 |          2 |         16 |
+| c:\Users\Malthe Sennels\Documents\ESD210\Kode_Produkt\Klokkemodul_DEV1\platformio.ini                        | Ini      |         14 |         11 |          5 |         30 |
+| c:\Users\Malthe Sennels\Documents\ESD210\Kode_Produkt\Klokkemodul_DEV1\src\main.cpp                          | C++      |         51 |         30 |         38 |        119 |
+| Total                                                                                                        |          |        393 |        148 |        179 |        720 |
++--------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
