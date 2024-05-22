@@ -15,3 +15,8 @@ Eksternt brugte libraries i dette projekt er:
 
 ### Tests
 Her forefindes de forskellige tests opdelt som enten samlet, Klokke eller MKF
+
+### PC oscilloskop
+For at visualisere de samples der tages af arduinoen på MKF-modulet benyttes følgende værktøj
+https://x-io.co.uk/serial-oscilloscope/
+
