@@ -1,5 +1,5 @@
 # Bilag til P2 projektet ESD210
-Der forefindes følgende kategorier
+Alle eksterne bilag til P2 projektet for ESD210 hvor der kan findes følgende mapper:
 
 
 ### Kicad filer
@@ -15,3 +15,8 @@ Eksternt brugte libraries i dette projekt er:
 
 ### Tests
 Her forefindes de forskellige tests opdelt som enten samlet, Klokke eller MKF
+
+### PC oscilloskop
+For at visualisere de samples der tages af arduinoen på MKF-modulet benyttes følgende værktøj
+https://x-io.co.uk/serial-oscilloscope/
+
