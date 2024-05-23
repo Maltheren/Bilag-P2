@@ -3,7 +3,7 @@ Der forefindes følgende kategorier
 
 
 ### Kicad filer
-Alle kredsløbsdiagrammer samt PCB designs.
+Alle kredsløbsdiagrammer samt PCB designs. Under mappen /PDF kan alle schematics findes i pdf format.
 
 
 ### Kode produkt
