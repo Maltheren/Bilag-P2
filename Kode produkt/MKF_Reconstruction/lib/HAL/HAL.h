@@ -15,8 +15,5 @@ extern RF24 radio;
 
 
 
-/**
- * @brief Nigger
- * 
- */
+
 void SetupRadio(void (*input)()); 
